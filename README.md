@@ -1,1 +1,1 @@
-# leetcode
+Daily Coding Challenge
